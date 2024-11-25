@@ -1,0 +1,18 @@
+.button{
+    width: 45px;
+    height: 45px;
+    margin: 3px;
+  }
+
+  .buttoncontaine{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  button:hover{
+    box-shadow: 3px 2px ;
+    background-color: rgb(236, 84, 228);
+    color: rgb(44, 241, 44);
+    border-radius: 10px;
+  }
